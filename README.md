@@ -1,7 +1,6 @@
 ## AdminPortal For Online Banking
 
-## AdminPortal's Backend Link
-https://github.com/naqib83/OnlineBanking
+Online Banking (Backend) git repo https://github.com/naqib83/OnlineBanking
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
